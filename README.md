@@ -1,13 +1,13 @@
 # Vina
-# # Projektna naloga za Programiranje 1 
+## Projektna naloga za Programiranje 1 
 Analizirala bom vsa vina (Red, White, Rose) kolicine 750ml (standardna velikost steklenice) iz spletne strani:
 [winelibrary](https://winelibrary.com/search?color[]=Red&color[]=White&color[]=Rose&page=1&size[]=750ML)
 
 **Za vsako vino bom zajela:**
-* Id number (številko izdelka)
+* Id number (ï¿½tevilko izdelka)
 * Full name (celotno ime)
 * Price (cena)
-* Country (državo)
+* Country (drï¿½avo)
 * Region (regijo)
 * SubRegion (podregijo)
 * Rating (oceno)
@@ -21,12 +21,12 @@ Analizirala bom vsa vina (Red, White, Rose) kolicine 750ml (standardna velikost 
 
 **Predvidena analiza:**
 * Katera barva vina je najdrazja? (predvideno bodo najdrazja rdeca)
-* Katere države imajo najdrazja vina?
-* Katere države imajo vina z najvišjo vsebovanostjo alkohola?
+* Katere drï¿½ave imajo najdrazja vina?
+* Katere drï¿½ave imajo vina z najviï¿½jo vsebovanostjo alkohola?
 * Ali je vsebovanost alkohola povezana z ceno? (predvidoma ne)
-* Katera regija ima katero najdražjo sorto oziroma kako so sorte povezane s ceno??
+* Katera regija ima katero najdraï¿½jo sorto oziroma kako so sorte povezane s ceno??
 * Kako sta okus in vonj povezana z barvo/sorto?
-* Ali so letniki vin povezani z ceno vina? (v splošnem ja, vendar gre lahko za neopazno majhne razlike)
+* Ali so letniki vin povezani z ceno vina? (v sploï¿½nem ja, vendar gre lahko za neopazno majhne razlike)
 * Ali je cena povezana z oceno vina? 
 
 
