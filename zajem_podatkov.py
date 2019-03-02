@@ -40,7 +40,7 @@ vzorec_alkohola = re.compile(
 )
 
 vzorec_zaprtja = re.compile(
-    r'>Closure</td>.+?"data">(?P<zaprtje>\w+)</td>.*?'
+    r'>Closure</td>.+?"data">(?P<zaprtje>Cork|Screwtop)</td>.*?'
     ,
     flags=re.DOTALL
 )
