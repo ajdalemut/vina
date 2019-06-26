@@ -34,6 +34,7 @@ Analizirala bom vsa vina (Red, White, Rose) količine 750ml (standardna velikost
 * datoteka *zajem_podatkov.py* vsebuje vzorce podatkov in funkcije, ki te podatke shranijo v html, csv in json obliki
 * datoteka *vina.csv* vsebuje tabelo podatkov o številkah, imenih, cenah, državah, regijah, ocenah, letnikih, barvah, alkoholih in zaprtjih izdelkov
 * datoteka *okusi.csv* vsebuje tabelo s številko vina in okusom vina
-* datoteka *vonji.csv* vsebuje tabelo s številko vina in vonjem vina\
+* datoteka *vonji.csv* vsebuje tabelo s številko vina in vonjem vina
+* datoteka *Vina.ipynb* vsebuje analizo podatkov\
 Datoteke so dobljene s pogonom datoteke *zajem_podatkov.py* vendar so vse dobljene mape že vključene v repozitorij, saj lahko njihov zajem traja nekoliko dlje.
 Zadnje tri datoteke so vsebovane v mapi obdelani-podatki.
